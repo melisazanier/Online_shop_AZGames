@@ -1,0 +1,69 @@
+.deleteText{
+
+  color:black;
+  position: absolute;
+  left:2%;
+  top:320px;
+  font-size: 20px;
+  font-size: 1.5vw;
+  font-weight: bold;
+  font-family:monospace;
+}
+.deleteForm{
+  font-family:monospace;
+  position: absolute;
+  top:350px;
+  left: 2%;
+}
+
+.deleteForm  input{
+  background: white;
+  font-family:monospace;
+  width: 200px;
+  height: 30px;
+  padding: 0px 10px;
+  margin-right: 10px;
+  border: none;
+  background-color: white;
+  font-size: 14px;
+  color:#111;
+  line-height: 30px;
+}
+ .deleteForm  button{
+   position: absolute;
+   top:0px;
+   left: 100%;
+  float:left;
+  width: 60px;
+  height: 30px;
+  margin-right: 10px;
+  border: none;
+  background-color: #f3f3f3;
+  font-family:monospace;
+  font-size: 14px;
+  color:#111;
+  cursor: pointer;
+}
+ .deleteForm  button:hover{
+
+  background-color:rgb(179, 179, 179);
+
+}
+
+.createAccount{
+  color:black;
+  position: absolute;
+  left:2%;
+  top:400px;
+  font-size: 20px;
+  font-weight: bold;
+  font-family:monospace;
+}
+.createAccount:hover{
+  color:rgb(140, 140, 140);
+  position: absolute;
+
+  font-size: 20px;
+  font-weight: bold;
+  font-family:monospace;
+}

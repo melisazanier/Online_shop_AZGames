@@ -1,0 +1,51 @@
+.personalData{
+  position: absolute;
+  left:18%;
+  top:60px;
+  background: white;
+  width: 85vw;
+  height:90vh;
+  z-index: -1;
+  background-image:url( "../w2.jpg");
+}
+.personalData1{
+  position: absolute;
+  left:0%;
+  top:60px;
+  background: white;
+  width: 100vw;
+  height:90vh;
+  z-index: -1;
+  background-image:url( "../w2.jpg");
+}
+.TextLabel{
+  position: absolute;
+  left:25%;
+  font-size:1.5vw;
+  font-family:monospace;
+
+}
+footer{
+  position: absolute;
+  left:18%;
+  top:200px;
+  height: 10px;
+  width: 100vw;
+  background: #222;
+}
+.footer_1{
+  position: absolute;
+  left:0%;
+  top:150px;
+  height: 10px;
+  width: 100vw;
+  background: #222;
+}
+ .warningt{
+  position:absolute;
+   width:300px;
+   left:38%;
+   font-family:monospace;
+   top:110%;
+   display: block;
+}

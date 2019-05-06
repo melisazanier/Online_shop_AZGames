@@ -1,0 +1,19 @@
+#shopping_cart{
+    position: absolute;
+    max-width: 30px;
+    width: 80%;
+    height: auto;
+    right: 5%;
+    top:14px;
+    z-index: 900;
+}
+
+
+#myImage1{
+    width: 80%;
+    height: auto;
+    cursor:pointer;
+}
+#myImage1:hover{
+    opacity: 0.5;
+}

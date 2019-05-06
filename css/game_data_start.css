@@ -1,0 +1,48 @@
+.tile1 #price {
+  color:#222;
+  position: relative;
+  top:-50px;
+
+  font-size: 1.3vw;
+  font-weight: bold;
+  font-family:monospace;
+}
+.tile1 #title {
+  color:#222;
+  position: relative;
+  top:-30px;
+
+  font-size: 1vw;
+  font-weight: bold;
+  font-family:monospace;
+}
+
+.imageGrid1 {
+  line-height: 30px;
+  padding-top: 100px;
+  padding-left: 160px;
+  padding-right: 0px;
+}
+.imageGrid1 .tile1 {
+
+  width:20vw;
+  min-height:10vh;
+  height: auto;
+  line-height: 3.2em;
+  display:inline-block;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  position: relative;
+
+}
+.imageGrid1 .tile1 img {
+  width: 200px;
+  height: auto;
+
+}
+.imageGrid1 .tile1:hover img {
+  background-color: black;
+  opacity: 0.7;
+}

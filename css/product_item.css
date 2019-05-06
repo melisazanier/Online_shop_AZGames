@@ -1,0 +1,116 @@
+
+.game_genre{
+  color:silver;
+  font-size: 1.3vw;
+  text-decoration: underline;
+  font-weight:bold;
+  font-family:monospace;
+}
+.game_genre_item{
+  color:silver;
+  font-size: 1vw;
+
+  margin-top: 10px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.main{
+  position: absolute;
+  left:65%;
+  top:40%;
+}
+
+.sub-main{
+  color:#fff;
+  text-align: center;
+  width: 20%;
+  margin:22px;
+  float: left;
+}
+.button-two{
+  text-align: center;
+  cursor: pointer;
+  font-size:1vw;
+  margin: 0 0 0 100px;
+}
+
+/*Button Two*/
+.button-two {
+  border-radius: 4px;
+  background-color:#d35400;
+  border: none;
+  padding: 20px;
+  width: 10vw;
+  transition: all 0.5s;
+  color:silver;
+}
+
+
+.button-two span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button-two span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button-two:hover span {
+  padding-right: 25px;
+}
+
+.button-two:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+.photo_item{
+  position: absolute;
+  top:120px;
+  left:5%;
+  width:25%;
+  height: auto;
+}
+
+.photo_item2{
+  position: absolute;
+  top:700px;
+  left:5%;
+  width:90%;
+  height: auto;
+}
+.photo_item3{
+  position: absolute;
+  top:1400px;
+  left:5%;
+  width:90%;
+  height: auto;
+}
+#title_item{
+  position: absolute;
+  top:150px;
+  left:42%;
+  color:silver;
+  font-size: 3.6vw;
+  font-weight: 900;
+  font-family:monospace;
+
+
+}
+#price_item{
+  position: absolute;
+  top:37%;
+  left:75%;
+  color:silver;
+  font-size: 2vw;
+  font-weight: 900;
+
+  font-family:monospace;
+
+}
