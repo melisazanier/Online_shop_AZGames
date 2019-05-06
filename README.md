@@ -1,4 +1,7 @@
 # Online_shop_AZGames
+![alt text][logo]
+
+[logo]: https://github.com/melisazanier/Online_shop_AZGames/blob/master/photos/MV_logo.png "Logo Title Text 2"
 
 ## Project details:
 ###### This website is a fictive online game shop where you can buy your favorite games only if you have an account.
