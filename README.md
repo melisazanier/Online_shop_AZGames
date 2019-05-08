@@ -30,6 +30,28 @@
 ###### Available in short time
 
 ## Images from the website 
----
+
 #### Home page
+---
 ![alt text](https://github.com/melisazanier/Online_shop_AZGames/blob/master/imagesGit/image1.png "Home page")
+#### Signup page
+---
+![alt text](https://github.com/melisazanier/Online_shop_AZGames/blob/master/imagesGit/image6.png "Signup page")
+
+#### Games page
+---
+![alt text](https://github.com/melisazanier/Online_shop_AZGames/blob/master/imagesGit/image2.png "Games page")
+
+#### Individual game inside page
+---
+![alt text](https://github.com/melisazanier/Online_shop_AZGames/blob/master/imagesGit/image4.png "Individual game inside page")
+![alt text](https://github.com/melisazanier/Online_shop_AZGames/blob/master/imagesGit/image5.png "Individual game inside page")
+
+#### Admin overview of products page
+---
+![alt text](https://github.com/melisazanier/Online_shop_AZGames/blob/master/imagesGit/image7.png "Admin overview of products page")
+
+
+#### Contact page
+---
+![alt text](https://github.com/melisazanier/Online_shop_AZGames/blob/master/imagesGit/image3.png "Contact page")
