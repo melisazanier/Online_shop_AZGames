@@ -18,6 +18,12 @@
 + Have access to activation codes from the products they bought
 
 ### The administrator can:
++ Create a user account
++ Delete user's accounts
++ Have an overview of accounts created
++ Have an overview of all products that are for sale
++ Have an overview of details related to purchases
++ Add/delete/modify products from the website
 
 
 ## YouTube link:
