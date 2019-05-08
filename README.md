@@ -28,3 +28,8 @@
 
 ## YouTube link:
 ###### Available in short time
+
+## Images from the website 
+---
+#### Home page
+![alt text](https://github.com/melisazanier/Online_shop_AZGames/blob/master/imagesGit/image1.png "Home page")
