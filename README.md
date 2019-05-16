@@ -27,7 +27,7 @@
 
 
 ## YouTube link:
-###### Available in short time
+[AZ Online Game Shop youtube link](https://www.youtube.com/watch?v=LvacTwL_QaY "Youtube link")
 
 ## Images from the website 
 
